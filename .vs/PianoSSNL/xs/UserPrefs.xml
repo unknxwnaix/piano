@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{EB3D1BFA-EF49-4ACE-AEB5-4CDAB182FF75}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PianoSSNL/Program.cs">
+    <Files>
+      <File FileName="pianoSSnl/Program.cs" Line="126" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="pianoSSnl" expanded="True">
+            <Node name="pianoSSnl" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.pianoSSnl PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

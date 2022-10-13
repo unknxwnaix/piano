@@ -1,0 +1,14 @@
+/Users/aix/Projects/PianoSSNL/PianoSSNL/obj/Debug/netcoreapp3.1/pianoSSnl.csproj.AssemblyReference.cache
+/Users/aix/Projects/PianoSSNL/PianoSSNL/obj/Debug/netcoreapp3.1/pianoSSnl.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aix/Projects/PianoSSNL/PianoSSNL/obj/Debug/netcoreapp3.1/pianoSSnl.AssemblyInfoInputs.cache
+/Users/aix/Projects/PianoSSNL/PianoSSNL/obj/Debug/netcoreapp3.1/pianoSSnl.AssemblyInfo.cs
+/Users/aix/Projects/PianoSSNL/PianoSSNL/obj/Debug/netcoreapp3.1/pianoSSnl.csproj.CoreCompileInputs.cache
+/Users/aix/Projects/PianoSSNL/PianoSSNL/bin/Debug/netcoreapp3.1/pianoSSnl
+/Users/aix/Projects/PianoSSNL/pianoSSnl/bin/Debug/netcoreapp3.1/pianoSSnl.deps.json
+/Users/aix/Projects/PianoSSNL/pianoSSnl/bin/Debug/netcoreapp3.1/pianoSSnl.runtimeconfig.json
+/Users/aix/Projects/PianoSSNL/pianoSSnl/bin/Debug/netcoreapp3.1/pianoSSnl.runtimeconfig.dev.json
+/Users/aix/Projects/PianoSSNL/PianoSSNL/bin/Debug/netcoreapp3.1/pianoSSnl.dll
+/Users/aix/Projects/PianoSSNL/PianoSSNL/bin/Debug/netcoreapp3.1/pianoSSnl.pdb
+/Users/aix/Projects/PianoSSNL/PianoSSNL/obj/Debug/netcoreapp3.1/pianoSSnl.dll
+/Users/aix/Projects/PianoSSNL/PianoSSNL/obj/Debug/netcoreapp3.1/pianoSSnl.pdb
+/Users/aix/Projects/PianoSSNL/pianoSSnl/obj/Debug/netcoreapp3.1/pianoSSnl.genruntimeconfig.cache

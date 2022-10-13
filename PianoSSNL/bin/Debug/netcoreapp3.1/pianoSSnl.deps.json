@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "pianoSSnl/1.0.0": {
+        "runtime": {
+          "pianoSSnl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pianoSSnl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
